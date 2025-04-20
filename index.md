@@ -2,7 +2,7 @@
 layout: default
 ---
 <style>
-h1, h2 {
+h1, h2 ,h3 {
   margin-top: 60px;
 }
 hr {
